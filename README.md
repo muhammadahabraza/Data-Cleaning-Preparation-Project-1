@@ -1,5 +1,4 @@
 # Data-Cleaning-Preparation-Project-1
-# Data Cleaning Project
 
 ## Overview
 
